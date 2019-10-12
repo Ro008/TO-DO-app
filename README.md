@@ -1,3 +1,5 @@
 # Minimalist TO DO app 📝
 ✏ You can add, delete and filter to do's
-## Built with vanilla JavaScript 🤩
+https://ro008.github.io/TO-DO-app/
+## Built with vanilla JavaScript 🤩 
+### Fully responsive | Bootstrap ❤
